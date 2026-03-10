@@ -41,5 +41,3 @@ This boundary is non-negotiable: AI accelerates information flow but never repla
 **Integration brittleness with legacy CAD systems.** PSAPs run aging computer-aided dispatch platforms with proprietary interfaces. API failures or CAD version updates could break automated field population, forcing fallback to manual data entry. Scale testing would surface timeout issues when CAD systems can't keep pace with AI-generated transfer volume during surge events.
 
 ---
-
-**Word Count:** 499 words

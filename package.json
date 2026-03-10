@@ -1,0 +1,22 @@
+{
+  "name": "psap-context-transfer-ai",
+  "version": "1.0.0",
+  "description": "AI-native context transfer system for 911 PSAP call handoffs — eliminates 4+ minute transfer delays by extracting and packaging structured context in real time.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "911",
+    "psap",
+    "emergency-dispatch",
+    "ai",
+    "claude",
+    "anthropic"
+  ],
+  "author": "Sunny Hananiah Mapakshi",
+  "license": "MIT"
+}
