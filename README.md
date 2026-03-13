@@ -124,4 +124,5 @@ Based on the demo scenario:
 
 **The Rule:** AI provides decision support. Humans retain authority.
 
+https://github.com/user-attachments/assets/273b0a68-780c-441a-b787-7a2a56297658
 
