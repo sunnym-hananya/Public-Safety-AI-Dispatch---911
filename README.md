@@ -121,8 +121,10 @@ Based on the demo scenario:
 - Override AI routing when situational judgment needed
 - Go/no-go decisions for high-risk responses
 - Any action affecting life safety
+Rule:** AI provides decision support. Humans retain authority.
 
-**The Rule:** AI provides decision support. Humans retain authority.
+Market Research:
+**The [Human-Centric Work in Canadian Public Safety Answering Points_ Current Methods, Pain Points, and Aut.pdf](https://github.com/user-attachments/files/25979985/Human-Centric.Work.in.Canadian.Public.Safety.Answering.Points_.Current.Methods.Pain.Points.and.Aut.pdf)
 
 https://github.com/user-attachments/assets/273b0a68-780c-441a-b787-7a2a56297658
 
